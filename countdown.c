@@ -14,8 +14,7 @@ int main()
 	printf("Da che numero deve partire? ");
 	scanf("%d",&c);
 	printf("\n\n");
-	while 
-	(c > 0) 
+	while (c >= 0) 
 	{
 	printf("\n%d\n",c);
 	c--;
