@@ -12,3 +12,6 @@
 - Algoritmo "massimo.c": Algoritmo che ricevuti in input 10 numeri ne determina il maggiore.
 
 - Algoritmo "duemaggiori.c": Algoritmo che ricevuti in input 10 numeri ne determina i due maggiori.
+
+- Algoritmo "quadrato.c": Algoritmo che ricevuto in input il lato di un quadrato, compreso tra 1 e 20, poi lo disegna con asterischi (*).
+
