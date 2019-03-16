@@ -22,3 +22,5 @@
 - Algoritmo "cifra.c": Algoritmo che ricevuto in input un intero conti quanti 7 sono presenti tra le cifre che lo compongono.
 
 - Algoritmo "palindromi.c": Algoritmo che ricevuto in input un numero intero di 5 caratteri, determina se sia palindromo.
+
+- Algoritmo "binario.c": Algoritmo che converte un numero binario, ricevuto in input, in decimale.
