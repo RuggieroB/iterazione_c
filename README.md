@@ -19,3 +19,5 @@
 
 - Algoritmo "cerchio.c": Algoritmo che calcola circonferenza e superficie di un cerchio ricevuto in input il raggio (double).
 
+- Algoritmo "cifra.c": Algoritmo che ricevuto in input un intero conti quanti 7 sono presenti tra le cifre che lo compongono.
+
