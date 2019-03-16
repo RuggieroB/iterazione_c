@@ -15,3 +15,5 @@
 
 - Algoritmo "quadrato.c": Algoritmo che ricevuto in input il lato di un quadrato, compreso tra 1 e 20, poi lo disegna con asterischi (*).
 
+- Algoritmo "quadratovuoto.c": Algoritmo che ricevuto in input il lato di un quadrato, compreso tra 1 e 20, poi ne disegna il perimetro con asterischi (*).
+

@@ -12,7 +12,7 @@ int main()
 {
 	int lato,base=0,altezza=0,c='*';
 	do {
-		printf("DISEGNA UN QUADRATO CON ASTERISCHI (*)\n\n");
+		printf("\nDISEGNA UN QUADRATO CON ASTERISCHI (*)\n\n");
 		printf("Inserire il lato del quadrato (min 1, max 20):\t");
 		scanf("%d", &lato);
 		if ( lato < 1 || lato > 20 )
