@@ -17,3 +17,5 @@
 
 - Algoritmo "quadratovuoto.c": Algoritmo che ricevuto in input il lato di un quadrato, compreso tra 1 e 20, poi ne disegna il perimetro con asterischi (*).
 
+- Algoritmo "cerchio.c": Algoritmo che calcola circonferenza e superficie di un cerchio ricevuto in input il raggio (double).
+
