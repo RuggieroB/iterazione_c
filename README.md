@@ -34,3 +34,14 @@
 				   Sostituisce ogni cifra con il risultato della somma modulo dieci tra la cifra stessa e sette. Infine scambia la prima cifra con la terza e 
 				    la seconda con la quarta.) e restituisce il numero originale.
 
+
+- Algoritmo "sequenze.c": Algoritmo che genera le sequenze:
+			   A: 1, 2, 3, 4, 5, 6, 7, 8;
+			   B: 3, 8, 13, 18, 23;
+			   C: 20, 14, 8, 2, -4, -10;
+			   D: 19, 27, 35, 43, 51.
+
+- Algoritmo "sommaprodotto.c": Algoritmo che calcola la somma degli interi pari compresi tra 2 e 30 e il prodotto degli interi dispari compresi tra 1 e 15.
+
+- Algoritmo "fattoriale.c": Algoritmo che calcola i fattoriali degli interi da 1 a 5.
+

@@ -21,6 +21,7 @@ int main()
 	n /= 10;
 	c4 = n % 10;
 	n /= 10;
+	/*Nothing to do for the third charachter*/
 	n /= 10;
 	c2 = n % 10;
 	n /= 10;
