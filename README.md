@@ -45,3 +45,7 @@
 
 - Algoritmo "fattoriale.c": Algoritmo che calcola i fattoriali degli interi da 1 a 5.
 
+- Algoritmo "figure.c": Algoritmo che stampa 4 figure utilizzando asterisci (*) e la sola funzione "putchar()".
+
+- Algoritmo "rombo.c": Algoritmo che, ricevuto in input un intero dispari compreso tra 1 e 19, disegni un rombo utilizzando asterisci (*) e la sola funzione "putchar()".
+
