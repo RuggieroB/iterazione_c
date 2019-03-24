@@ -49,3 +49,6 @@
 
 - Algoritmo "rombo.c": Algoritmo che, ricevuto in input un intero dispari compreso tra 1 e 19, disegni un rombo utilizzando asterisci (*) e la sola funzione "putchar()".
 
+- Algoritmo "pigreco.c": Algoritmo che calcola il valore di π mediante la formula: π=4-4/3+4/5-4/7+4/9-4/11+4/n+...
+
+			  Il numero di termini da utilizzare nella serie è inserito dall'utente.
