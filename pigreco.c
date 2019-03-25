@@ -12,6 +12,7 @@
 
 /*ATTENZIONE!!! Il 'printf()' del "pi" non mi restituisce il numero di termini decimali come dichiarato in input. ho tentato con: '%f', '%lf', '%e', '%le', '%g', '%lg'. '%e' è quello con 
 l'approssimazione migliore.*/
+
 #include <stdio.h>
 int main()
 {
