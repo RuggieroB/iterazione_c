@@ -52,3 +52,8 @@
 - Algoritmo "pigreco.c": Algoritmo che calcola il valore di π mediante la formula: π=4-4/3+4/5-4/7+4/9-4/11+4/n+...
 
 			  Il numero di termini da utilizzare nella serie è inserito dall'utente.
+
+- Algoritmo "sumvett.c": Algoritmo che dopo aver chiesto all'utente dieci numeri interi, li memorizza all'interno di un vettore, li somma, ne calcola la media e infine stampa 
+   tutti i dati e i risultati.
+
+- Algoritmo "address.c": Algoritmo che stampa il valore dell'indirizzo di tutti gli elementi di un vettore di dieci interi.
