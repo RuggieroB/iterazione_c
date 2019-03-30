@@ -12,7 +12,7 @@
 int main()
 {
 	int numeri[10];
-	int i,somma;
+	int i,somma=0;
 	double media;
 	printf("Inserire 10 numeri interi:\n");
 	for ( i=0; i<10; i++ )
