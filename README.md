@@ -57,3 +57,5 @@
    tutti i dati e i risultati.
 
 - Algoritmo "address.c": Algoritmo che stampa il valore dell'indirizzo di tutti gli elementi di un vettore di dieci interi.
+
+- Algoritmo "caratteri.c": Algoritmo che data una stringa (non in input), ne stampa i caratteri uno per riga.
