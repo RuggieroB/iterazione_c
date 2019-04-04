@@ -15,6 +15,18 @@ int main()
 	printf("\n\nInserire un valore:\t");
 	scanf("%d",&val);
 	max1 = val;
+	printf("\n\nInserire un valore:\t");
+	scanf("%d",&val);
+	c++;
+	if ( val > max1 )
+	{
+		max2 = max1;
+		max1 = val;
+	}
+	else
+	{
+		max2 = val;
+	}
 	while ( c < 10 )
 	{
 		printf("\nInserire un valore:\t");
@@ -24,10 +36,11 @@ int main()
 			max2 = max1;
 			max1 = val;
 		}
-		else
+		else if ( val > max2 )
 		{
 			max2 = val;
 		}
+		/*No 'else' for this 'if'*/
 		c++;
 	}
 	printf("\n\nValore maggiore:\t%d",max1);
