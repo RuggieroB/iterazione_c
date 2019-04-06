@@ -59,3 +59,5 @@
 - Algoritmo "address.c": Algoritmo che stampa il valore dell'indirizzo di tutti gli elementi di un vettore di dieci interi.
 
 - Algoritmo "caratteri.c": Algoritmo che data una stringa (non in input), ne stampa i caratteri uno per riga.
+
+- Algoritmo "basi.c": Algoritmo che stampa una tabella con i numeri da 0 a 255 in decimale, in binario, in ottale e in esadecimale.
